@@ -30,13 +30,23 @@
 * [集合Set](https://github.com/IMUHERO/DataStructure/tree/master/6-Set-and-Map/Set):可用于存储不重复元素<br>
 底层实现包含：[`二叉树集合`](https://github.com/IMUHERO/DataStructure/tree/master/6-Set-and-Map/Set/BSTSet)+[`链表集合`](https://github.com/IMUHERO/DataStructure/tree/master/6-Set-and-Map/Set/LinkedListSet)
 * [映射Map](https://github.com/IMUHERO/DataStructure/tree/master/6-Set-and-Map/Map):可用于存储
-`不重复元素<br>
-底层实现包含：[`二叉树集合`](https://github.com/IMUHERO/DataStructure/tree/master/6-Set-and-Map/Set/BSTSet)+[`链表集合`](https://github.com/IMUHERO/DataStructure/tree/master/6-Set-and-Map/Set/LinkedListSet)
+`不重复元素`<br>
+底层实现包含：[`二叉树映射`](https://github.com/IMUHERO/DataStructure/tree/master/6-Set-and-Map/Set/BSTSet)+[`链表映射`](https://github.com/IMUHERO/DataStructure/tree/master/6-Set-and-Map/Set/LinkedListSet)
 
 
 
 ### [七、堆与优先队列](https://github.com/IMUHERO/DataStructure/tree/master/7-Heap-and-Priority-Queue)
+* [`堆：Map`](https://github.com/IMUHERO/DataStructure/tree/master/7-Heap-and-Priority-Queue/Heap):实现[最大堆](https://github.com/IMUHERO/DataStructure/blob/master/7-Heap-and-Priority-Queue/Heap/MaxHeap.java)<br>
+注：基于`数组`实现`二叉树`，进而实现`堆`。
+* [`优先队列：PriorityQueue`](https://github.com/IMUHERO/DataStructure/tree/master/7-Heap-and-Priority-Queue/PriorityQueue)<br>
+注：基于`最大堆`实现的`优先队列`
+
+### [八、哈希表](https://github.com/IMUHERO/DataStructure/blob/master/8-Hash-Table/HashTable.java)
+注：使用系统java.util.TreeMap实现HashMap,哈希表底层采用数组，数组中每一个位置链接一科红黑树。
 
 
-### [八、哈希表](https://github.com/IMUHERO/DataStructure/tree/master/8-Hash-Table)
+
+
+
+
 

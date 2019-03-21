@@ -11,8 +11,9 @@
 
 
 ### [三、队列](https://github.com/IMUHERO/DataStructure/tree/master/3-Queue)
-* [简单队列](https://github.com/IMUHERO/DataStructure/tree/master/2-Stacks/ArrayStack) : 基于[`一、数组`](https://github.com/IMUHERO/DataStructure/blob/master/2-Stacks/ArrayStack/Array.java)实现。
-* [循环队列](https://github.com/IMUHERO/DataStructure/tree/master/2-Stacks/ArrayStack) : 基于[`一、数组`](https://github.com/IMUHERO/DataStructure/blob/master/2-Stacks/ArrayStack/Array.java)实现。
+* [简单队列](https://github.com/IMUHERO/DataStructure/tree/master/2-Stacks/ArrayStack) : 基于[`数组`](https://github.com/IMUHERO/DataStructure/blob/master/3-Queue/1-ArrayQueue/Array.java)实现。
+* [循环队列](https://github.com/IMUHERO/DataStructure/tree/master/2-Stacks/ArrayStack) : 基于[`数组`](https://github.com/IMUHERO/DataStructure/blob/master/3-Queue/2-LoopQueue/Array.java)实现。
+* [链表队列](https://github.com/IMUHERO/DataStructure/tree/master/2-Stacks/ArrayStack) : 基于[`链表`](https://github.com/IMUHERO/DataStructure/tree/master/4-Linked-List)实现。
 
 ### [四、链表](https://github.com/IMUHERO/DataStructure/tree/master/4-Linked-List)
 

@@ -6,12 +6,13 @@
   * 功能：getCapacity()、 getSize()、 getSize()、isEmpty()、addLast(E e)、addFirst(E e)、add(int index, E e)、<br>get(int index)、set(int index, E e)、boolean judge(int e)、int find(E e)E delete(int index)、 E deleteFirst()、<br>E deleteLast()、String deleteElement(E e)、void resize(int num)、String toString()
   * 特别：`动态数组`、`泛型`
 ### [二、栈](https://github.com/IMUHERO/DataStructure/tree/master/2-Stacks)<br>
-* [基于数组实现的栈](https://github.com/IMUHERO/DataStructure/blob/master/2-Stacks/ArrayStack.java) : 数组的功能与[`一、数组`](https://github.com/IMUHERO/DataStructure/blob/master/2-Stacks/Array.java)功能相同。
-
+* [基于数组实现的栈](https://github.com/IMUHERO/DataStructure/tree/master/2-Stacks/ArrayStack) : 数组的功能与[`一、数组`](https://github.com/IMUHERO/DataStructure/blob/master/2-Stacks/ArrayStack/Array.java)功能相同。
+* [基于链表实现的栈](https://github.com/IMUHERO/DataStructure/tree/master/2-Stacks/LinkedListStack) : 链表的功能与[`四、链表`](https://github.com/IMUHERO/DataStructure/blob/master/2-Stacks/LinkedListStack/LinkedList.java)功能相同。
 
 
 ### [三、队列](https://github.com/IMUHERO/DataStructure/tree/master/3-Queue)
-
+* [简单队列](https://github.com/IMUHERO/DataStructure/tree/master/2-Stacks/ArrayStack) : 基于[`一、数组`](https://github.com/IMUHERO/DataStructure/blob/master/2-Stacks/ArrayStack/Array.java)实现。
+* [循环队列](https://github.com/IMUHERO/DataStructure/tree/master/2-Stacks/ArrayStack) : 基于[`一、数组`](https://github.com/IMUHERO/DataStructure/blob/master/2-Stacks/ArrayStack/Array.java)实现。
 
 ### [四、链表](https://github.com/IMUHERO/DataStructure/tree/master/4-Linked-List)
 

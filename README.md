@@ -44,7 +44,7 @@
 注：基于`最大堆`实现的`优先队列`
 
 ### [八、哈希表](https://github.com/IMUHERO/DataStructure/blob/master/8-Hash-Table/HashTable.java)
-注：使用系统java.util.TreeMap实现HashMap,哈希表底层采用数组，数组中每一个位置链接一科红黑树。
+注：使用系统java.util.TreeMap实现HashMap,哈希表底层采用数组，数组中每一个位置链接一颗红黑树。
 
 
 

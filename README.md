@@ -46,6 +46,20 @@
 ### [八、哈希表](https://github.com/IMUHERO/DataStructure/blob/master/8-Hash-Table/HashTable.java)
 注：使用系统java.util.TreeMap实现HashMap,哈希表底层采用数组，数组中每一个位置链接一颗红黑树。
 
+### [九、线段树](https://github.com/IMUHERO/DataStructure/tree/master/09-Segment-Tree)
+注：基于自定义融合方法的线段树
+
+### [十、字典树](https://github.com/IMUHERO/DataStructure/tree/master/10-Trie)
+实现一颗可以快速查询英文字母（其他字符也可）的字典树，并且通过该数据结构解决[leecode208](https://github.com/IMUHERO/DataStructure/blob/master/10-Trie/TrieLC208.java)和[leetcode211](https://github.com/IMUHERO/DataStructure/blob/master/10-Trie/TrieLC211.java)号问题，对字典树进行功能完善。
+
+### [十一、并查集](https://github.com/IMUHERO/DataStructure/tree/master/11-Union-Find)
+注：对并查集这种数据结构尝试进行五种改进方案
+
+### [十二、AVL平衡树](https://github.com/IMUHERO/DataStructure/tree/master/12-AVLTree)
+注：设计AVLTree，通过对“傲慢与偏见”的词频统计等功能，比较其与普通二叉树的性能差别
+
+### [十三、红黑树](https://github.com/IMUHERO/DataStructure/tree/master/13-Red-Black-Tree)
+注：在AVLTree的基础上更进一步，实现红黑树的基本功能
 
 
 
